@@ -1,0 +1,12 @@
+toothpaste
+25
+5
+hair_oil
+15
+6
+shampoo
+5
+4
+soap
+20
+6
